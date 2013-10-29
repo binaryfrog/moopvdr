@@ -1,0 +1,14 @@
+style "tv"
+{
+	bg[NORMAL] = "#334652"
+	fg[NORMAL] = "#ffffff"
+	bg[PRELIGHT] = "#334652"
+	fg[PRELIGHT] = "#00ff00"
+	text[NORMAL] = "#ffffff"
+	base[NORMAL] = "#334652"
+
+	font_name="Verdana 12"
+}
+
+widget_class "*" style "tv"
+
